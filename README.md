@@ -4,5 +4,5 @@ OpenCart модуль для отмены оплаты в мерчанте Assis
 
 ## IMPORTANT:
 Language Code has been changes to english!
-BEFORE UPLOADING, please change Language ru-ro Fodlder Names 
-in ADMIN and ROOT Sections to english !
+BEFORE UPLOADING, please change Language ru-ru Folder/Directory 
+Names in ADMIN and ROOT Sections to english !
